@@ -5,5 +5,5 @@ Project page from mbed developer site: https://developer.mbed.org/users/malavika
 The base of this app is nRF UART app for Android from Nordic Semiconductor.
 Source: https://github.com/NordicSemiconductor/Android-nRF-UART
 
-A screenshot of with short introductions is shown below.
+A screenshot of the app with short introductions is shown below.
 ![screenshot](https://github.com/kniw233/BLERobot4180/blob/master/Screenshot.png)
